@@ -3,7 +3,7 @@
 ![weather_app Logo](images/logo.png) <!-- Replace with your app logo or image -->
 ---
 ## 🌤️ Introduction
-**weather_app** is a cross-platform weather forecasting app built with **Dart** and **Flutter**.
+- **weather_app** is a cross-platform weather forecasting app built with **Dart** and **Flutter**.
 The app provides accurate weather information for your current location or the city you choose with a simple, easy-to-use interface and fast updates.
 ---
 ## ✨ Features
@@ -37,3 +37,10 @@ flutter pub get
 flutter run
 
 📂 Project structure
+lib/
+├── main.dart # Application entry point
+├── Theme/ # Color
+├── View/ # UI
+├── providers/ # State management
+├── services/ # API handling and backend logic
+└── utils/
