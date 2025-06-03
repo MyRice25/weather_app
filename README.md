@@ -1,6 +1,6 @@
 # weather_app
 
-![weather_app Logo](images/logo.png) <!-- Replace with your app logo or image -->
+![weather_app](https://github.com/MyRice25/weather_app/blob/master/screenshot_1748950416.png?raw=true))
 ---
 ## 🌤️ Introduction
 - **weather_app** is a cross-platform weather forecasting app built with **Dart** and **Flutter**.
